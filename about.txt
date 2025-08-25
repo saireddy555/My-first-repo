@@ -1,0 +1,3 @@
+Name:N.Sai mukesh Rajeev Reddy
+Course:B.Sc Data Science
+GitHub is a platform used to work in collaboration and make development and operation more faster and effiecient 
